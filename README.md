@@ -43,4 +43,8 @@ processed_test_data.csv
 These files can be used directly for training and validating machine learning models.
 
 Outcome
-This script demonstrates a fully functional data preprocessing pipeline, automating the essential steps from raw data to clean, ready-to-use inputs. It is efficient, well-documented, and aligned with real-world data science practices. ##
+This script demonstrates a fully functional data preprocessing pipeline, automating the essential steps from raw data to clean, ready-to-use inputs. It is efficient, well-documented, and aligned with real-world data science practices. 
+
+##OUTPUT:
+![Image](https://github.com/user-attachments/assets/19e0835f-d18d-4f3f-8fcb-9d52551f676d)
+![Image](https://github.com/user-attachments/assets/b224323d-612c-42ec-81cd-d1b38e439e57)
